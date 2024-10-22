@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "my_parser_prokhorov"
+name = "my_parser_prokhorov_bohdan"
 version = "0.1.0"
 dependencies = [
  "peg",
