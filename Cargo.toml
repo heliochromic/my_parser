@@ -1,0 +1,9 @@
+[package]
+name = "my_parser_prokhorov"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "some description"
+
+[dependencies]
+peg = "0.8.4"
